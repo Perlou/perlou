@@ -27,11 +27,6 @@
     alt="total GitHub stars"
     src="https://raw.githubusercontent.com/perlou/perlou/release/total-github-stars.svg"
   /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.npmjs.com/~perlou"><img
-    alt="total NPM downloads"
-    src="https://raw.githubusercontent.com/perlou/perlou/release/total-npm-downloads.svg"
-  /></a>
 </h4>
 
 <p align="center">
