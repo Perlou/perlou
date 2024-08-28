@@ -29,7 +29,8 @@
         "axios": "^1.7.x",
         "devicon": "^2.x",
         "fs-extra": "^11.x",
-        "prettier": "^3.x"
+        "prettier": "^3.x",
+        "simple-icons": "^13.x"
     },
     "devDependencies": {
         "nodemon": "^3.x"
