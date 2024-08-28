@@ -57,7 +57,7 @@
 <h4></h4>
 
 <p align="center">
-  <a href="https://github.com/perlou/perlou/scirpts/svgs/github-top-languages.js">
+  <a href="https://github.com/Perlou/perlou/blob/main/scripts/svgs/github-top-languages.js">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perlou/perlou/release/github-top-languages-dark.svg">
       <img alt="GitHub Top Languages" src="https://raw.githubusercontent.com/perlou/perlou/release/github-top-languages-light.svg">
