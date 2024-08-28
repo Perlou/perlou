@@ -33,7 +33,7 @@
   <a href="https://perlou.top"><img
     alt="blog"
     height="24px"
-    src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-blog.svg"
+    src="https://raw.githubusercontent.com/perlou/perlou/release/badge-blog.svg"
   /></a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/perlou666"><img
