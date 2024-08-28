@@ -26,6 +26,7 @@ jobs:
             - name: Release branch
               uses: peaceiris/actions-gh-pages@v4
               with:
+                  personal_token: ${{ secrets.GITHUB_TOKEN }}
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_branch: release
                   publish_dir: ./output
