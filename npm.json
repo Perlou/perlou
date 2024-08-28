@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "package": {
+        "name": "@perlou/large-number",
+        "scope": "perlou",
+        "version": "1.0.0",
+        "description": "大整数加法打包",
+        "date": "2022-05-19T09:09:46.943Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40perlou%2Flarge-number"
+        },
+        "author": {
+          "name": "perlou"
+        },
+        "publisher": {
+          "username": "perlou",
+          "email": "perloukevin@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "perlou",
+            "email": "perloukevin@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.11825311621165774,
+        "detail": {
+          "quality": 0.39173289735362493,
+          "popularity": 0.0020949914444864347,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 6.7993717e-13
+    }
+  ],
+  "downloads": {
+    "@perlou/large-number": 127
+  }
+}
