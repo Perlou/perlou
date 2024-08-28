@@ -1,6 +1,6 @@
 {
     "name": "perlou",
-    "version": "0.4.0",
+    "version": "1.0.0",
     "main": "scripts/index.js",
     "repository": {
         "type": "git",
