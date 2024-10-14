@@ -28,17 +28,17 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.11822925220517541,
+        "final": 0.11822958142110238,
         "detail": {
-          "quality": 0.3928723901995651,
-          "popularity": 0.0010501004151596688,
+          "quality": 0.3928734693486323,
+          "popularity": 0.0010501160471790912,
           "maintenance": 0
         }
       },
-      "searchScore": 6.645188e-13
+      "searchScore": 6.644056e-13
     }
   ],
   "downloads": {
-    "@perlou/large-number": 124
+    "@perlou/large-number": 125
   }
 }
