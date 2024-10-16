@@ -28,14 +28,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.1182244250944954,
+        "final": 0.11822613498629383,
         "detail": {
-          "quality": 0.39285559855017455,
-          "popularity": 0.0010507015126944407,
+          "quality": 0.3928612157722524,
+          "popularity": 0.0010507721560517878,
           "maintenance": 0
         }
       },
-      "searchScore": 6.6418556e-13
+      "searchScore": 6.6422556e-13
     }
   ],
   "downloads": {
