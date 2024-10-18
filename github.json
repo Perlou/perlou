@@ -17,6 +17,7 @@
     "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Perlou/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false,
     "name": "Kevin",
     "company": null,
@@ -65,6 +66,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/100-exercises-to-learn-rust",
@@ -165,6 +167,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/100du",
@@ -265,6 +268,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/cake-website",
@@ -365,6 +369,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/carole-admin",
@@ -471,6 +476,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/create-release",
@@ -577,6 +583,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/daily-algo",
@@ -677,6 +684,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/Diagnosite",
@@ -777,6 +785,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/django_app",
@@ -877,6 +886,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/doge",
@@ -977,6 +987,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/elm-by-vue",
@@ -1077,6 +1088,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/film-node-mongodb",
@@ -1177,6 +1189,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/font-end-test",
@@ -1277,6 +1290,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/gallery-by-react",
@@ -1377,6 +1391,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/gallery-by-react-es6",
@@ -1477,6 +1492,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/golang-notes",
@@ -1577,6 +1593,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/ins-app",
@@ -1677,6 +1694,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/it-tools",
@@ -1783,6 +1801,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/java-practice",
@@ -1883,6 +1902,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/lcb-webapp",
@@ -1983,6 +2003,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/material-ui-app",
@@ -2083,6 +2104,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/mcore-ext",
@@ -2189,6 +2211,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/mcore3",
@@ -2289,6 +2312,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/mmf-ui-toolbox",
@@ -2395,6 +2419,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/mmf_news_spider",
@@ -2495,6 +2520,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/MonsterGame",
@@ -2595,6 +2621,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/movies-react-native",
@@ -2695,6 +2722,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/perlou",
@@ -2739,13 +2767,13 @@
       "deployments_url": "https://api.github.com/repos/Perlou/perlou/deployments",
       "created_at": "2024-08-27T14:45:01Z",
       "updated_at": "2024-08-31T09:17:28Z",
-      "pushed_at": "2024-10-17T18:43:42Z",
+      "pushed_at": "2024-10-17T21:36:29Z",
       "git_url": "git://github.com/Perlou/perlou.git",
       "ssh_url": "git@github.com:Perlou/perlou.git",
       "clone_url": "https://github.com/Perlou/perlou.git",
       "svn_url": "https://github.com/Perlou/perlou",
       "homepage": null,
-      "size": 1466,
+      "size": 1492,
       "stargazers_count": 2,
       "watchers_count": 2,
       "language": "JavaScript",
@@ -2795,6 +2823,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/Perlou.github.io",
@@ -2900,6 +2929,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/perlou.old.cn",
@@ -3000,6 +3030,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/pop-component",
@@ -3100,6 +3131,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/pxq-react",
@@ -3200,6 +3232,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/python-practice",
@@ -3300,6 +3333,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/qtkwx",
@@ -3400,6 +3434,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/react-demo-es2015",
@@ -3500,6 +3535,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/Tetris",
@@ -3600,6 +3636,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/textBiography",
@@ -3700,6 +3737,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/ThreeDChange",
@@ -3800,6 +3838,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/TimeManager",
@@ -3900,6 +3939,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/todo-by-angularjs",
@@ -4000,6 +4040,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/todo-by-mcore",
@@ -4100,6 +4141,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/TodoByReact",
@@ -4200,6 +4242,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/underscore_note",
@@ -4300,6 +4343,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/Voxel",
@@ -4400,6 +4444,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue-cli-webpack-ts",
@@ -4500,6 +4545,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue-express-mongodb-mall",
@@ -4600,6 +4646,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue-svgicon",
@@ -4706,6 +4753,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue-typescript",
@@ -4812,6 +4860,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue-zhihudaily",
@@ -4912,6 +4961,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/vue3-ts-tpl",
@@ -5019,6 +5069,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wechat-bot",
@@ -5125,6 +5176,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/weex-vue-fixed",
@@ -5231,6 +5283,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wx-app-demo",
@@ -5331,6 +5384,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wx-app-douban",
@@ -5431,6 +5485,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wx-public-app",
@@ -5531,6 +5586,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wx-sceme-cube",
@@ -5631,6 +5687,7 @@
         "events_url": "https://api.github.com/users/Perlou/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Perlou/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Perlou/wx-scene-scape",
