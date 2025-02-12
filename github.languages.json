@@ -3,7 +3,7 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "69.38"
+    "percentage": "69.37"
   },
   {
     "name": "CSS",
@@ -70,6 +70,12 @@
     "size": 1222,
     "color": "#b07219",
     "percentage": "0.05"
+  },
+  {
+    "name": "Rust",
+    "size": 326,
+    "color": "#dea584",
+    "percentage": "0.01"
   },
   {
     "name": "Shell",
