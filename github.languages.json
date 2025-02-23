@@ -3,31 +3,31 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "68.54"
+    "percentage": "68.41"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "11.05"
+    "percentage": "11.03"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "8.16"
+    "percentage": "8.14"
   },
   {
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "6.18"
+    "percentage": "6.16"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.95"
+    "percentage": "1.94"
   },
   {
     "name": "Python",
@@ -37,9 +37,9 @@
   },
   {
     "name": "Rust",
-    "size": 31154,
+    "size": 36173,
     "color": "#dea584",
-    "percentage": "1.21"
+    "percentage": "1.40"
   },
   {
     "name": "PLpgSQL",
