@@ -3,25 +3,25 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "64.91"
+    "percentage": "64.87"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "10.47"
+    "percentage": "10.46"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "7.73"
+    "percentage": "7.72"
   },
   {
     "name": "Rust",
-    "size": 175517,
+    "size": 177213,
     "color": "#dea584",
-    "percentage": "6.44"
+    "percentage": "6.50"
   },
   {
     "name": "HTML",
