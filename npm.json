@@ -7,12 +7,13 @@
       },
       "dependents": 0,
       "updated": "2025-03-11T17:31:28.753Z",
-      "searchScore": 6.074276,
+      "searchScore": 6.076996,
       "package": {
         "name": "@perlou/large-number",
         "keywords": [],
         "version": "1.0.0",
         "description": "大整数加法打包",
+        "sanitized_name": "@perlou/large-number",
         "publisher": {
           "email": "perloukevin@gmail.com",
           "username": "perlou"
@@ -30,7 +31,7 @@
         }
       },
       "score": {
-        "final": 6.074276,
+        "final": 6.076996,
         "detail": {
           "popularity": 1,
           "quality": 1,
