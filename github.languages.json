@@ -3,43 +3,43 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "63.56"
+    "percentage": "63.33"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "10.25"
+    "percentage": "10.21"
   },
   {
     "name": "Rust",
-    "size": 232189,
+    "size": 242323,
     "color": "#dea584",
-    "percentage": "8.34"
+    "percentage": "8.67"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "7.57"
+    "percentage": "7.54"
   },
   {
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "5.73"
+    "percentage": "5.71"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.81"
+    "percentage": "1.80"
   },
   {
     "name": "Python",
     "size": 46175,
     "color": "#3572A5",
-    "percentage": "1.66"
+    "percentage": "1.65"
   },
   {
     "name": "PLpgSQL",
