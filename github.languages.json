@@ -3,43 +3,43 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "62.84"
+    "percentage": "62.48"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "10.13"
+    "percentage": "10.07"
   },
   {
     "name": "Rust",
-    "size": 264117,
+    "size": 280726,
     "color": "#dea584",
-    "percentage": "9.38"
+    "percentage": "9.91"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "7.48"
+    "percentage": "7.44"
   },
   {
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "5.66"
+    "percentage": "5.63"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.78"
+    "percentage": "1.77"
   },
   {
     "name": "Python",
     "size": 46175,
     "color": "#3572A5",
-    "percentage": "1.64"
+    "percentage": "1.63"
   },
   {
     "name": "PLpgSQL",
@@ -51,13 +51,13 @@
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
-    "percentage": "0.18"
+    "percentage": "0.17"
   },
   {
     "name": "Objective-C",
     "size": 4386,
     "color": "#438eff",
-    "percentage": "0.16"
+    "percentage": "0.15"
   },
   {
     "name": "GLSL",
@@ -99,12 +99,6 @@
     "name": "C",
     "size": 19,
     "color": "#555555",
-    "percentage": "0.00"
-  },
-  {
-    "name": "RenderScript",
-    "size": 1,
-    "color": null,
     "percentage": "0.00"
   }
 ]
