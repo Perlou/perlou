@@ -3,31 +3,31 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "62.48"
+    "percentage": "62.26"
+  },
+  {
+    "name": "Rust",
+    "size": 290312,
+    "color": "#dea584",
+    "percentage": "10.21"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "10.07"
-  },
-  {
-    "name": "Rust",
-    "size": 280726,
-    "color": "#dea584",
-    "percentage": "9.91"
+    "percentage": "10.04"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "7.44"
+    "percentage": "7.41"
   },
   {
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "5.63"
+    "percentage": "5.61"
   },
   {
     "name": "Vue",
@@ -39,7 +39,7 @@
     "name": "Python",
     "size": 46175,
     "color": "#3572A5",
-    "percentage": "1.63"
+    "percentage": "1.62"
   },
   {
     "name": "PLpgSQL",
@@ -84,6 +84,12 @@
     "percentage": "0.03"
   },
   {
+    "name": "Makefile",
+    "size": 313,
+    "color": "#427819",
+    "percentage": "0.01"
+  },
+  {
     "name": "Shell",
     "size": 307,
     "color": "#89e051",
@@ -99,6 +105,12 @@
     "name": "C",
     "size": 19,
     "color": "#555555",
+    "percentage": "0.00"
+  },
+  {
+    "name": "RenderScript",
+    "size": 6,
+    "color": null,
     "percentage": "0.00"
   }
 ]
