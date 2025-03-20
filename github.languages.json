@@ -3,43 +3,43 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "61.51"
+    "percentage": "61.32"
   },
   {
     "name": "Rust",
-    "size": 324729,
+    "size": 332639,
     "color": "#dea584",
-    "percentage": "11.29"
+    "percentage": "11.53"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "9.92"
+    "percentage": "9.89"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "7.32"
+    "percentage": "7.30"
   },
   {
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "5.54"
+    "percentage": "5.53"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.75"
+    "percentage": "1.74"
   },
   {
     "name": "Python",
     "size": 46175,
     "color": "#3572A5",
-    "percentage": "1.61"
+    "percentage": "1.60"
   },
   {
     "name": "PLpgSQL",
@@ -85,9 +85,15 @@
   },
   {
     "name": "Makefile",
-    "size": 313,
+    "size": 814,
     "color": "#427819",
-    "percentage": "0.01"
+    "percentage": "0.03"
+  },
+  {
+    "name": "Dockerfile",
+    "size": 692,
+    "color": "#384d54",
+    "percentage": "0.02"
   },
   {
     "name": "Shell",
@@ -105,12 +111,6 @@
     "name": "C",
     "size": 19,
     "color": "#555555",
-    "percentage": "0.00"
-  },
-  {
-    "name": "RenderScript",
-    "size": 1,
-    "color": null,
     "percentage": "0.00"
   }
 ]
