@@ -27,7 +27,7 @@
     "name": "HTML",
     "size": 159449,
     "color": "#e34c26",
-    "percentage": "5.53"
+    "percentage": "5.52"
   },
   {
     "name": "Vue",
@@ -90,15 +90,15 @@
     "percentage": "0.03"
   },
   {
-    "name": "Dockerfile",
-    "size": 692,
-    "color": "#384d54",
+    "name": "Go",
+    "size": 706,
+    "color": "#00ADD8",
     "percentage": "0.02"
   },
   {
-    "name": "Go",
-    "size": 528,
-    "color": "#00ADD8",
+    "name": "Dockerfile",
+    "size": 692,
+    "color": "#384d54",
     "percentage": "0.02"
   },
   {
