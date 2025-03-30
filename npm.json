@@ -7,7 +7,7 @@
       },
       "dependents": 0,
       "updated": "2025-03-25T17:42:25.090Z",
-      "searchScore": 11.523849,
+      "searchScore": 11.554301,
       "package": {
         "name": "@perlou/large-number",
         "keywords": [],
@@ -31,7 +31,7 @@
         }
       },
       "score": {
-        "final": 11.523849,
+        "final": 11.554301,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -44,6 +44,6 @@
     }
   ],
   "downloads": {
-    "@perlou/large-number": 132
+    "@perlou/large-number": 133
   }
 }
