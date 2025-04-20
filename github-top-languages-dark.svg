@@ -129,13 +129,13 @@
           <span
             class="item"
             data-lang="Go"
-            style="background-color: #00add8; width: 2.65%"
+            style="background-color: #00add8; width: 2.66%"
           ></span>
 
           <span
             class="item"
             data-lang="Vue"
-            style="background-color: #41b883; width: 1.7%"
+            style="background-color: #41b883; width: 1.69%"
           ></span>
 
           <span
@@ -267,7 +267,7 @@
 
           <div class="legend" style="--color: #00add8">
             <span class="color" style="--gradient: 55%">
-              <span class="core" style="width: 2.65%"></span>
+              <span class="core" style="width: 2.66%"></span>
             </span>
             <span class="icon"
               ><svg
@@ -404,12 +404,12 @@
               /></svg>
             </span>
             <span class="name">Go</span>
-            <span class="percentage">2.65%</span>
+            <span class="percentage">2.66%</span>
           </div>
 
           <div class="legend" style="--color: #41b883">
             <span class="color" style="--gradient: 50%">
-              <span class="core" style="width: 1.7%"></span>
+              <span class="core" style="width: 1.69%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -422,7 +422,7 @@
                   fill="#41b883" /></svg
             ></span>
             <span class="name">Vue</span>
-            <span class="percentage">1.70%</span>
+            <span class="percentage">1.69%</span>
           </div>
 
           <div class="legend" style="--color: #3572a5">
