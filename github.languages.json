@@ -3,7 +3,7 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "58.26"
+    "percentage": "58.22"
   },
   {
     "name": "Rust",
@@ -31,9 +31,9 @@
   },
   {
     "name": "Go",
-    "size": 151601,
+    "size": 153294,
     "color": "#00ADD8",
-    "percentage": "4.99"
+    "percentage": "5.04"
   },
   {
     "name": "Vue",
