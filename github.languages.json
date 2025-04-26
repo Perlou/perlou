@@ -3,37 +3,37 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "57.88"
+    "percentage": "57.81"
   },
   {
     "name": "Rust",
     "size": 332639,
     "color": "#dea584",
-    "percentage": "10.88"
+    "percentage": "10.87"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "9.33"
+    "percentage": "9.32"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "6.89"
+    "percentage": "6.88"
   },
   {
     "name": "Go",
-    "size": 171635,
+    "size": 174904,
     "color": "#00ADD8",
-    "percentage": "5.61"
+    "percentage": "5.71"
   },
   {
     "name": "HTML",
     "size": 159763,
     "color": "#e34c26",
-    "percentage": "5.23"
+    "percentage": "5.22"
   },
   {
     "name": "Vue",
