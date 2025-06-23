@@ -1,5 +1,5 @@
 {
-  "totalContributions": 387,
+  "totalContributions": 366,
   "weeks": [
     {
       "contributionDays": [
@@ -2398,6 +2398,12 @@
         {
           "weekday": 0,
           "date": "2025-06-22",
+          "contributionCount": 0,
+          "color": "#ebedf0"
+        },
+        {
+          "weekday": 1,
+          "date": "2025-06-23",
           "contributionCount": 0,
           "color": "#ebedf0"
         }
