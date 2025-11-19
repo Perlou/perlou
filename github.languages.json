@@ -3,37 +3,37 @@
     "name": "JavaScript",
     "size": 1769406,
     "color": "#f1e05a",
-    "percentage": "56.86"
+    "percentage": "56.71"
   },
   {
     "name": "Rust",
     "size": 332639,
     "color": "#dea584",
-    "percentage": "10.69"
+    "percentage": "10.66"
   },
   {
     "name": "CSS",
     "size": 285296,
     "color": "#663399",
-    "percentage": "9.17"
+    "percentage": "9.14"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "7.27"
+    "percentage": "7.25"
   },
   {
     "name": "TypeScript",
     "size": 210629,
     "color": "#3178c6",
-    "percentage": "6.77"
+    "percentage": "6.75"
   },
   {
     "name": "HTML",
-    "size": 159763,
+    "size": 164787,
     "color": "#e34c26",
-    "percentage": "5.13"
+    "percentage": "5.28"
   },
   {
     "name": "Vue",
@@ -73,14 +73,26 @@
   },
   {
     "name": "SCSS",
-    "size": 2438,
+    "size": 3407,
     "color": "#c6538c",
-    "percentage": "0.08"
+    "percentage": "0.11"
+  },
+  {
+    "name": "Shell",
+    "size": 1868,
+    "color": "#89e051",
+    "percentage": "0.06"
   },
   {
     "name": "Java",
     "size": 1222,
     "color": "#b07219",
+    "percentage": "0.04"
+  },
+  {
+    "name": "Dockerfile",
+    "size": 1183,
+    "color": "#384d54",
     "percentage": "0.04"
   },
   {
@@ -94,18 +106,6 @@
     "size": 814,
     "color": "#427819",
     "percentage": "0.03"
-  },
-  {
-    "name": "Dockerfile",
-    "size": 692,
-    "color": "#384d54",
-    "percentage": "0.02"
-  },
-  {
-    "name": "Shell",
-    "size": 307,
-    "color": "#89e051",
-    "percentage": "0.01"
   },
   {
     "name": "C",
