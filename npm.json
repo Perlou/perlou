@@ -3,11 +3,11 @@
     {
       "downloads": {
         "monthly": 2,
-        "weekly": 0
+        "weekly": 1
       },
       "dependents": 0,
-      "updated": "2025-11-18T20:31:17.290Z",
-      "searchScore": 4.7033176,
+      "updated": "2025-11-25T20:36:27.396Z",
+      "searchScore": 4.461145,
       "package": {
         "name": "@perlou/large-number",
         "keywords": [],
@@ -31,7 +31,7 @@
         }
       },
       "score": {
-        "final": 4.7033176,
+        "final": 4.461145,
         "detail": {
           "popularity": 1,
           "quality": 1,
