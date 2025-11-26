@@ -15,7 +15,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > A passionate <a href="#"><img src="./widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="28" width="28" /></a> web developer based in Guangzhou.
+      > A passionate <a href="#"><img src="./widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="28" width="28" /></a> web developer based in Canton.
     </samp>
   </i>
 </h3>
