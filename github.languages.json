@@ -3,19 +3,19 @@
     "name": "JavaScript",
     "size": 1770522,
     "color": "#f1e05a",
-    "percentage": "48.50"
+    "percentage": "48.49"
   },
   {
     "name": "TypeScript",
     "size": 406160,
     "color": "#3178c6",
-    "percentage": "11.13"
+    "percentage": "11.12"
   },
   {
     "name": "Python",
     "size": 338251,
     "color": "#3572A5",
-    "percentage": "9.27"
+    "percentage": "9.26"
   },
   {
     "name": "Rust",
@@ -49,9 +49,9 @@
   },
   {
     "name": "Java",
-    "size": 22017,
+    "size": 22597,
     "color": "#b07219",
-    "percentage": "0.60"
+    "percentage": "0.62"
   },
   {
     "name": "Shell",
