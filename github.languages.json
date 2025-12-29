@@ -3,67 +3,67 @@
     "name": "JavaScript",
     "size": 1770522,
     "color": "#f1e05a",
-    "percentage": "48.11"
+    "percentage": "46.56"
   },
   {
     "name": "TypeScript",
     "size": 406160,
     "color": "#3178c6",
-    "percentage": "11.04"
+    "percentage": "10.68"
   },
   {
     "name": "Python",
     "size": 338251,
     "color": "#3572A5",
-    "percentage": "9.19"
+    "percentage": "8.90"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "9.06"
+    "percentage": "8.77"
   },
   {
     "name": "CSS",
     "size": 285946,
     "color": "#663399",
-    "percentage": "7.77"
+    "percentage": "7.52"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "6.15"
+    "percentage": "5.95"
+  },
+  {
+    "name": "Java",
+    "size": 170920,
+    "color": "#b07219",
+    "percentage": "4.49"
   },
   {
     "name": "HTML",
     "size": 165147,
     "color": "#e34c26",
-    "percentage": "4.49"
-  },
-  {
-    "name": "Java",
-    "size": 51175,
-    "color": "#b07219",
-    "percentage": "1.39"
+    "percentage": "4.34"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.37"
+    "percentage": "1.32"
   },
   {
     "name": "Shell",
-    "size": 21419,
+    "size": 24361,
     "color": "#89e051",
-    "percentage": "0.58"
+    "percentage": "0.64"
   },
   {
     "name": "PLpgSQL",
     "size": 11513,
     "color": "#336790",
-    "percentage": "0.31"
+    "percentage": "0.30"
   },
   {
     "name": "CoffeeScript",
@@ -81,7 +81,7 @@
     "name": "GLSL",
     "size": 4249,
     "color": "#5686a5",
-    "percentage": "0.12"
+    "percentage": "0.11"
   },
   {
     "name": "SCSS",
