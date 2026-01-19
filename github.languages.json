@@ -3,85 +3,85 @@
     "name": "JavaScript",
     "size": 1770522,
     "color": "#f1e05a",
-    "percentage": "38.75"
+    "percentage": "34.43"
   },
   {
     "name": "Python",
-    "size": 879187,
+    "size": 1452769,
     "color": "#3572A5",
-    "percentage": "19.24"
+    "percentage": "28.25"
   },
   {
     "name": "TypeScript",
     "size": 406160,
     "color": "#3178c6",
-    "percentage": "8.89"
+    "percentage": "7.90"
   },
   {
     "name": "Java",
     "size": 395580,
     "color": "#b07219",
-    "percentage": "8.66"
+    "percentage": "7.69"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "7.30"
+    "percentage": "6.48"
   },
   {
     "name": "CSS",
     "size": 285946,
     "color": "#663399",
-    "percentage": "6.26"
+    "percentage": "5.56"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "4.95"
+    "percentage": "4.40"
   },
   {
     "name": "HTML",
     "size": 165602,
     "color": "#e34c26",
-    "percentage": "3.62"
+    "percentage": "3.22"
   },
   {
     "name": "Vue",
     "size": 50246,
     "color": "#41b883",
-    "percentage": "1.10"
+    "percentage": "0.98"
   },
   {
     "name": "Shell",
     "size": 24361,
     "color": "#89e051",
-    "percentage": "0.53"
+    "percentage": "0.47"
   },
   {
     "name": "PLpgSQL",
     "size": 11513,
     "color": "#336790",
-    "percentage": "0.25"
+    "percentage": "0.22"
   },
   {
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
-    "percentage": "0.11"
+    "percentage": "0.10"
   },
   {
     "name": "Objective-C",
     "size": 4386,
     "color": "#438eff",
-    "percentage": "0.10"
+    "percentage": "0.09"
   },
   {
     "name": "GLSL",
     "size": 4249,
     "color": "#5686a5",
-    "percentage": "0.09"
+    "percentage": "0.08"
   },
   {
     "name": "SCSS",
@@ -93,7 +93,7 @@
     "name": "Dockerfile",
     "size": 1183,
     "color": "#384d54",
-    "percentage": "0.03"
+    "percentage": "0.02"
   },
   {
     "name": "Jinja",
@@ -111,7 +111,7 @@
     "name": "Lua",
     "size": 715,
     "color": "#000080",
-    "percentage": "0.02"
+    "percentage": "0.01"
   },
   {
     "name": "C",
