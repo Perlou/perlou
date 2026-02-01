@@ -105,7 +105,7 @@
           <span
             class="item"
             data-lang="Python"
-            style="background-color: #3572a5; width: 30.66%"
+            style="background-color: #3572a5; width: 30.67%"
           ></span>
 
           <span
@@ -200,7 +200,7 @@
 
           <div class="legend" style="--color: #3572a5">
             <span class="color" style="--gradient: 75%">
-              <span class="core" style="width: 30.66%"></span>
+              <span class="core" style="width: 30.67%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -253,7 +253,7 @@
               /></svg>
             </span>
             <span class="name">Python</span>
-            <span class="percentage">30.66%</span>
+            <span class="percentage">30.67%</span>
           </div>
 
           <div class="legend" style="--color: #f1e05a">
