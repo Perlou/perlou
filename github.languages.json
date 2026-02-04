@@ -3,61 +3,61 @@
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "35.75"
+    "percentage": "35.15"
   },
   {
     "name": "Python",
-    "size": 3824575,
+    "size": 3923270,
     "color": "#3572A5",
-    "percentage": "32.32"
+    "percentage": "32.60"
   },
   {
     "name": "JavaScript",
-    "size": 1869693,
+    "size": 1872510,
     "color": "#f1e05a",
-    "percentage": "15.80"
+    "percentage": "15.56"
   },
   {
     "name": "TypeScript",
-    "size": 506069,
+    "size": 602578,
     "color": "#3178c6",
-    "percentage": "4.28"
+    "percentage": "5.01"
   },
   {
     "name": "HTML",
-    "size": 342974,
+    "size": 343744,
     "color": "#e34c26",
-    "percentage": "2.90"
+    "percentage": "2.86"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "2.82"
+    "percentage": "2.77"
   },
   {
     "name": "CSS",
-    "size": 309297,
+    "size": 310538,
     "color": "#663399",
-    "percentage": "2.61"
+    "percentage": "2.58"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.91"
+    "percentage": "1.88"
   },
   {
     "name": "Vue",
     "size": 108017,
     "color": "#41b883",
-    "percentage": "0.91"
+    "percentage": "0.90"
   },
   {
     "name": "Shell",
     "size": 37752,
     "color": "#89e051",
-    "percentage": "0.32"
+    "percentage": "0.31"
   },
   {
     "name": "PLpgSQL",
@@ -73,9 +73,9 @@
   },
   {
     "name": "Dockerfile",
-    "size": 5742,
+    "size": 7070,
     "color": "#384d54",
-    "percentage": "0.05"
+    "percentage": "0.06"
   },
   {
     "name": "CoffeeScript",
