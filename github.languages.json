@@ -3,31 +3,31 @@
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "34.61"
+    "percentage": "34.58"
   },
   {
     "name": "Python",
-    "size": 4066111,
+    "size": 4072779,
     "color": "#3572A5",
-    "percentage": "33.27"
+    "percentage": "33.30"
   },
   {
     "name": "JavaScript",
     "size": 1876261,
     "color": "#f1e05a",
-    "percentage": "15.35"
+    "percentage": "15.34"
   },
   {
     "name": "TypeScript",
     "size": 639947,
     "color": "#3178c6",
-    "percentage": "5.24"
+    "percentage": "5.23"
   },
   {
     "name": "HTML",
     "size": 344223,
     "color": "#e34c26",
-    "percentage": "2.82"
+    "percentage": "2.81"
   },
   {
     "name": "Rust",
@@ -55,9 +55,9 @@
   },
   {
     "name": "Shell",
-    "size": 40623,
+    "size": 42453,
     "color": "#89e051",
-    "percentage": "0.33"
+    "percentage": "0.35"
   },
   {
     "name": "PLpgSQL",
