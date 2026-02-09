@@ -1,63 +1,63 @@
 [
   {
+    "name": "Python",
+    "size": 4290946,
+    "color": "#3572A5",
+    "percentage": "34.47"
+  },
+  {
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "34.49"
-  },
-  {
-    "name": "Python",
-    "size": 4104891,
-    "color": "#3572A5",
-    "percentage": "33.47"
+    "percentage": "33.98"
   },
   {
     "name": "JavaScript",
     "size": 1876261,
     "color": "#f1e05a",
-    "percentage": "15.30"
+    "percentage": "15.07"
   },
   {
     "name": "TypeScript",
     "size": 639947,
     "color": "#3178c6",
-    "percentage": "5.22"
+    "percentage": "5.14"
   },
   {
     "name": "HTML",
     "size": 344223,
     "color": "#e34c26",
-    "percentage": "2.81"
+    "percentage": "2.77"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "2.72"
+    "percentage": "2.68"
   },
   {
     "name": "CSS",
     "size": 310538,
     "color": "#663399",
-    "percentage": "2.53"
+    "percentage": "2.49"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.85"
+    "percentage": "1.82"
   },
   {
     "name": "Vue",
     "size": 108017,
     "color": "#41b883",
-    "percentage": "0.88"
+    "percentage": "0.87"
   },
   {
     "name": "Shell",
     "size": 42453,
     "color": "#89e051",
-    "percentage": "0.35"
+    "percentage": "0.34"
   },
   {
     "name": "PLpgSQL",
