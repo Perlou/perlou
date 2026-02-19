@@ -99,13 +99,13 @@
           <span
             class="item"
             data-lang="Python"
-            style="background-color: #3572a5; width: 35.95%"
+            style="background-color: #3572a5; width: 35.96%"
           ></span>
 
           <span
             class="item"
             data-lang="Java"
-            style="background-color: #b07219; width: 31.91%"
+            style="background-color: #b07219; width: 31.92%"
           ></span>
 
           <span
@@ -153,7 +153,7 @@
           <span
             class="item"
             data-lang="Shell"
-            style="background-color: #89e051; width: 0.44%"
+            style="background-color: #89e051; width: 0.43%"
           ></span>
 
           <span
@@ -178,7 +178,7 @@
         >
           <div class="legend" style="--color: #3572a5">
             <span class="color" style="--gradient: 80%">
-              <span class="core" style="width: 35.95%"></span>
+              <span class="core" style="width: 35.96%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -231,12 +231,12 @@
               /></svg>
             </span>
             <span class="name">Python</span>
-            <span class="percentage">35.95%</span>
+            <span class="percentage">35.96%</span>
           </div>
 
           <div class="legend" style="--color: #b07219">
             <span class="color" style="--gradient: 75%">
-              <span class="core" style="width: 31.91%"></span>
+              <span class="core" style="width: 31.92%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -253,7 +253,7 @@
                   d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z" /></svg
             ></span>
             <span class="name">Java</span>
-            <span class="percentage">31.91%</span>
+            <span class="percentage">31.92%</span>
           </div>
 
           <div class="legend" style="--color: #f1e05a">
@@ -507,7 +507,7 @@
 
           <div class="legend" style="--color: #89e051">
             <span class="color" style="--gradient: 35%">
-              <span class="core" style="width: 0.44%"></span>
+              <span class="core" style="width: 0.43%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -518,7 +518,7 @@
                   d="M99.12 90.73l-9.4 5.62c-.25.15-.43.31-.43.61v2.46c0 .3.2.43.45.28l9.54-5.8c.25-.15.29-.42.29-.72v-2.17c0-.3-.2-.42-.45-.28z" /></svg
             ></span>
             <span class="name">Shell</span>
-            <span class="percentage">0.44%</span>
+            <span class="percentage">0.43%</span>
           </div>
 
           <div class="legend" style="--color: #336790">
