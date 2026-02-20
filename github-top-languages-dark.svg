@@ -99,13 +99,13 @@
           <span
             class="item"
             data-lang="Python"
-            style="background-color: #3572a5; width: 35.96%"
+            style="background-color: #3572a5; width: 35.97%"
           ></span>
 
           <span
             class="item"
             data-lang="Java"
-            style="background-color: #b07219; width: 31.92%"
+            style="background-color: #b07219; width: 31.91%"
           ></span>
 
           <span
@@ -129,7 +129,7 @@
           <span
             class="item"
             data-lang="Rust"
-            style="background-color: #dea584; width: 2.52%"
+            style="background-color: #dea584; width: 2.51%"
           ></span>
 
           <span
@@ -178,7 +178,7 @@
         >
           <div class="legend" style="--color: #3572a5">
             <span class="color" style="--gradient: 80%">
-              <span class="core" style="width: 35.96%"></span>
+              <span class="core" style="width: 35.97%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -231,12 +231,12 @@
               /></svg>
             </span>
             <span class="name">Python</span>
-            <span class="percentage">35.96%</span>
+            <span class="percentage">35.97%</span>
           </div>
 
           <div class="legend" style="--color: #b07219">
             <span class="color" style="--gradient: 75%">
-              <span class="core" style="width: 31.92%"></span>
+              <span class="core" style="width: 31.91%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -253,7 +253,7 @@
                   d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z" /></svg
             ></span>
             <span class="name">Java</span>
-            <span class="percentage">31.92%</span>
+            <span class="percentage">31.91%</span>
           </div>
 
           <div class="legend" style="--color: #f1e05a">
@@ -309,7 +309,7 @@
 
           <div class="legend" style="--color: #dea584">
             <span class="color" style="--gradient: 55%">
-              <span class="core" style="width: 2.52%"></span>
+              <span class="core" style="width: 2.51%"></span>
             </span>
             <span class="icon"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"
@@ -318,7 +318,7 @@
               /></svg>
             </span>
             <span class="name">Rust</span>
-            <span class="percentage">2.52%</span>
+            <span class="percentage">2.51%</span>
           </div>
 
           <div class="legend" style="--color: #663399">
