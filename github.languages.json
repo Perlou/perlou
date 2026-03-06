@@ -13,19 +13,19 @@
   },
   {
     "name": "JavaScript",
-    "size": 2125050,
+    "size": 2122367,
     "color": "#f1e05a",
-    "percentage": "15.68"
+    "percentage": "15.66"
   },
   {
     "name": "TypeScript",
-    "size": 691667,
+    "size": 693568,
     "color": "#3178c6",
-    "percentage": "5.10"
+    "percentage": "5.12"
   },
   {
     "name": "HTML",
-    "size": 354951,
+    "size": 354967,
     "color": "#e34c26",
     "percentage": "2.62"
   },
@@ -49,13 +49,13 @@
   },
   {
     "name": "Vue",
-    "size": 120938,
+    "size": 119193,
     "color": "#41b883",
-    "percentage": "0.89"
+    "percentage": "0.88"
   },
   {
     "name": "Shell",
-    "size": 57575,
+    "size": 57379,
     "color": "#89e051",
     "percentage": "0.42"
   },
@@ -78,6 +78,12 @@
     "percentage": "0.06"
   },
   {
+    "name": "SCSS",
+    "size": 5062,
+    "color": "#c6538c",
+    "percentage": "0.04"
+  },
+  {
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
@@ -94,12 +100,6 @@
     "size": 4249,
     "color": "#5686a5",
     "percentage": "0.03"
-  },
-  {
-    "name": "SCSS",
-    "size": 3339,
-    "color": "#c6538c",
-    "percentage": "0.02"
   },
   {
     "name": "Lua",
