@@ -1,63 +1,63 @@
 [
   {
     "name": "Python",
-    "size": 7904460,
+    "size": 8081795,
     "color": "#3572A5",
-    "percentage": "44.67"
+    "percentage": "45.12"
   },
   {
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "23.90"
+    "percentage": "23.62"
   },
   {
     "name": "JavaScript",
     "size": 2683273,
     "color": "#f1e05a",
-    "percentage": "15.16"
+    "percentage": "14.98"
   },
   {
     "name": "TypeScript",
     "size": 1159146,
     "color": "#3178c6",
-    "percentage": "6.55"
+    "percentage": "6.47"
+  },
+  {
+    "name": "HTML",
+    "size": 411159,
+    "color": "#e34c26",
+    "percentage": "2.30"
   },
   {
     "name": "CSS",
     "size": 388629,
     "color": "#663399",
-    "percentage": "2.20"
-  },
-  {
-    "name": "HTML",
-    "size": 371433,
-    "color": "#e34c26",
-    "percentage": "2.10"
+    "percentage": "2.17"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.88"
+    "percentage": "1.86"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.28"
+    "percentage": "1.26"
   },
   {
     "name": "Shell",
     "size": 133254,
     "color": "#89e051",
-    "percentage": "0.75"
+    "percentage": "0.74"
   },
   {
     "name": "Vue",
     "size": 120268,
     "color": "#41b883",
-    "percentage": "0.68"
+    "percentage": "0.67"
   },
   {
     "name": "Jupyter Notebook",
@@ -69,7 +69,7 @@
     "name": "PLpgSQL",
     "size": 11513,
     "color": "#336790",
-    "percentage": "0.07"
+    "percentage": "0.06"
   },
   {
     "name": "Dockerfile",
