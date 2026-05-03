@@ -1,51 +1,51 @@
 [
   {
     "name": "Python",
-    "size": 8631806,
+    "size": 8714721,
     "color": "#3572A5",
-    "percentage": "46.75"
+    "percentage": "46.99"
   },
   {
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "22.91"
+    "percentage": "22.81"
   },
   {
     "name": "JavaScript",
     "size": 2683273,
     "color": "#f1e05a",
-    "percentage": "14.53"
+    "percentage": "14.47"
   },
   {
     "name": "TypeScript",
     "size": 1159146,
     "color": "#3178c6",
-    "percentage": "6.28"
+    "percentage": "6.25"
   },
   {
     "name": "HTML",
     "size": 411159,
     "color": "#e34c26",
-    "percentage": "2.23"
+    "percentage": "2.22"
   },
   {
     "name": "CSS",
     "size": 388629,
     "color": "#663399",
-    "percentage": "2.11"
+    "percentage": "2.10"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.81"
+    "percentage": "1.80"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.23"
+    "percentage": "1.22"
   },
   {
     "name": "Shell",
@@ -78,6 +78,12 @@
     "percentage": "0.06"
   },
   {
+    "name": "Makefile",
+    "size": 5237,
+    "color": "#427819",
+    "percentage": "0.03"
+  },
+  {
     "name": "SCSS",
     "size": 5062,
     "color": "#c6538c",
@@ -87,12 +93,6 @@
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
-    "percentage": "0.03"
-  },
-  {
-    "name": "Makefile",
-    "size": 4692,
-    "color": "#427819",
     "percentage": "0.03"
   },
   {
@@ -111,7 +111,7 @@
     "name": "Go Template",
     "size": 2780,
     "color": "#00ADD8",
-    "percentage": "0.02"
+    "percentage": "0.01"
   },
   {
     "name": "Lua",
