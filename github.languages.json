@@ -1,7 +1,7 @@
 [
   {
     "name": "Python",
-    "size": 9163656,
+    "size": 9165305,
     "color": "#3572A5",
     "percentage": "45.84"
   },
@@ -21,7 +21,7 @@
     "name": "HTML",
     "size": 1378453,
     "color": "#e34c26",
-    "percentage": "6.90"
+    "percentage": "6.89"
   },
   {
     "name": "TypeScript",
@@ -66,15 +66,15 @@
     "percentage": "0.46"
   },
   {
-    "name": "PLpgSQL",
-    "size": 11513,
-    "color": "#336790",
+    "name": "Dockerfile",
+    "size": 12615,
+    "color": "#384d54",
     "percentage": "0.06"
   },
   {
-    "name": "Dockerfile",
-    "size": 11242,
-    "color": "#384d54",
+    "name": "PLpgSQL",
+    "size": 11513,
+    "color": "#336790",
     "percentage": "0.06"
   },
   {
