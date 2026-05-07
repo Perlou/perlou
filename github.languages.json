@@ -1,9 +1,9 @@
 [
   {
     "name": "Python",
-    "size": 9747299,
+    "size": 9747382,
     "color": "#3572A5",
-    "percentage": "47.23"
+    "percentage": "47.22"
   },
   {
     "name": "Java",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Shell",
-    "size": 204927,
+    "size": 205325,
     "color": "#89e051",
     "percentage": "0.99"
   },
