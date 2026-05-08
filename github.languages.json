@@ -1,27 +1,27 @@
 [
   {
     "name": "Python",
-    "size": 10055942,
+    "size": 10087629,
     "color": "#3572A5",
-    "percentage": "48.00"
+    "percentage": "48.07"
   },
   {
     "name": "Java",
     "size": 4229964,
     "color": "#b07219",
-    "percentage": "20.19"
+    "percentage": "20.16"
   },
   {
     "name": "JavaScript",
     "size": 2683273,
     "color": "#f1e05a",
-    "percentage": "12.81"
+    "percentage": "12.79"
   },
   {
     "name": "HTML",
     "size": 1378453,
     "color": "#e34c26",
-    "percentage": "6.58"
+    "percentage": "6.57"
   },
   {
     "name": "TypeScript",
@@ -33,7 +33,7 @@
     "name": "CSS",
     "size": 388629,
     "color": "#663399",
-    "percentage": "1.86"
+    "percentage": "1.85"
   },
   {
     "name": "Rust",
@@ -49,9 +49,9 @@
   },
   {
     "name": "Shell",
-    "size": 205325,
+    "size": 207000,
     "color": "#89e051",
-    "percentage": "0.98"
+    "percentage": "0.99"
   },
   {
     "name": "Vue",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Dockerfile",
-    "size": 14578,
+    "size": 15487,
     "color": "#384d54",
     "percentage": "0.07"
   },
