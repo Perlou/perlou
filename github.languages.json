@@ -3,31 +3,31 @@
     "name": "Python",
     "size": 9798740,
     "color": "#3572A5",
-    "percentage": "48.28"
+    "percentage": "48.05"
   },
   {
     "name": "Java",
-    "size": 3835606,
+    "size": 3930141,
     "color": "#b07219",
-    "percentage": "18.90"
+    "percentage": "19.27"
   },
   {
     "name": "JavaScript",
     "size": 2683273,
     "color": "#f1e05a",
-    "percentage": "13.22"
+    "percentage": "13.16"
   },
   {
     "name": "HTML",
     "size": 1377998,
     "color": "#e34c26",
-    "percentage": "6.79"
+    "percentage": "6.76"
   },
   {
     "name": "TypeScript",
     "size": 1161492,
     "color": "#3178c6",
-    "percentage": "5.72"
+    "percentage": "5.70"
   },
   {
     "name": "CSS",
@@ -39,7 +39,7 @@
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.64"
+    "percentage": "1.63"
   },
   {
     "name": "Go",
@@ -63,7 +63,7 @@
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.46"
+    "percentage": "0.45"
   },
   {
     "name": "Dockerfile",
