@@ -3,73 +3,73 @@
     "name": "Python",
     "size": 9798740,
     "color": "#3572A5",
-    "percentage": "47.35"
+    "percentage": "48.28"
   },
   {
     "name": "Java",
-    "size": 4229964,
+    "size": 3835606,
     "color": "#b07219",
-    "percentage": "20.44"
+    "percentage": "18.90"
   },
   {
     "name": "JavaScript",
     "size": 2683273,
     "color": "#f1e05a",
-    "percentage": "12.97"
+    "percentage": "13.22"
   },
   {
     "name": "HTML",
-    "size": 1378453,
+    "size": 1377998,
     "color": "#e34c26",
-    "percentage": "6.66"
+    "percentage": "6.79"
   },
   {
     "name": "TypeScript",
     "size": 1161492,
     "color": "#3178c6",
-    "percentage": "5.61"
+    "percentage": "5.72"
   },
   {
     "name": "CSS",
     "size": 388629,
     "color": "#663399",
-    "percentage": "1.88"
+    "percentage": "1.91"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.61"
+    "percentage": "1.64"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.09"
+    "percentage": "1.11"
   },
   {
     "name": "Shell",
-    "size": 207944,
+    "size": 205002,
     "color": "#89e051",
-    "percentage": "1.00"
+    "percentage": "1.01"
   },
   {
     "name": "Vue",
     "size": 130792,
     "color": "#41b883",
-    "percentage": "0.63"
+    "percentage": "0.64"
   },
   {
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.45"
+    "percentage": "0.46"
   },
   {
     "name": "Dockerfile",
     "size": 15487,
     "color": "#384d54",
-    "percentage": "0.07"
+    "percentage": "0.08"
   },
   {
     "name": "Makefile",
@@ -114,12 +114,6 @@
     "percentage": "0.01"
   },
   {
-    "name": "Lua",
-    "size": 1430,
-    "color": "#000080",
-    "percentage": "0.01"
-  },
-  {
     "name": "Mako",
     "size": 1146,
     "color": "#7e858d",
@@ -129,6 +123,12 @@
     "name": "Jinja",
     "size": 915,
     "color": "#a52a22",
+    "percentage": "0.00"
+  },
+  {
+    "name": "Lua",
+    "size": 715,
+    "color": "#000080",
     "percentage": "0.00"
   },
   {
