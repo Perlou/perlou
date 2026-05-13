@@ -1,21 +1,21 @@
 [
   {
     "name": "Python",
-    "size": 10039667,
+    "size": 10058188,
     "color": "#3572A5",
-    "percentage": "46.14"
+    "percentage": "46.18"
   },
   {
     "name": "Java",
     "size": 4625678,
     "color": "#b07219",
-    "percentage": "21.26"
+    "percentage": "21.24"
   },
   {
     "name": "JavaScript",
     "size": 2684245,
     "color": "#f1e05a",
-    "percentage": "12.34"
+    "percentage": "12.32"
   },
   {
     "name": "HTML",
