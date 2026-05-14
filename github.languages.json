@@ -1,45 +1,45 @@
 [
   {
     "name": "Python",
-    "size": 10178079,
+    "size": 10192198,
     "color": "#3572A5",
-    "percentage": "46.44"
+    "percentage": "46.26"
   },
   {
     "name": "Java",
     "size": 4625678,
     "color": "#b07219",
-    "percentage": "21.11"
+    "percentage": "21.00"
   },
   {
     "name": "JavaScript",
     "size": 2684245,
     "color": "#f1e05a",
-    "percentage": "12.25"
+    "percentage": "12.18"
+  },
+  {
+    "name": "TypeScript",
+    "size": 1485944,
+    "color": "#3178c6",
+    "percentage": "6.74"
   },
   {
     "name": "HTML",
     "size": 1471391,
     "color": "#e34c26",
-    "percentage": "6.71"
-  },
-  {
-    "name": "TypeScript",
-    "size": 1413358,
-    "color": "#3178c6",
-    "percentage": "6.45"
+    "percentage": "6.68"
   },
   {
     "name": "CSS",
-    "size": 428430,
+    "size": 457615,
     "color": "#663399",
-    "percentage": "1.96"
+    "percentage": "2.08"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.52"
+    "percentage": "1.51"
   },
   {
     "name": "Go",
