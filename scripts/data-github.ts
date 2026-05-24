@@ -3,7 +3,7 @@
  * @author Perlou(perloukevin@gmail.com)
  */
 
-import { CONFIG } from './constants.js'
+import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
 import { consoleObject } from './utils.js'
 import { fetchGitHubUserinfo, fetchGitHubRepositories, fetchGitHubOrganizations } from './apis.js'
 
@@ -17,9 +17,9 @@ interface GitHubPublicStatistics {
 
 export const getGitHubPublicData = async () => {
     const [userinfo, repositories, organizations] = await Promise.all([
-        fetchGitHubUserinfo(CONFIG.GITHUB_UID),
-        fetchGitHubRepositories(CONFIG.GITHUB_UID),
-        fetchGitHubOrganizations(CONFIG.GITHUB_UID)
+        fetchGitHubUserinfo(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN),
+        fetchGitHubRepositories(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN),
+        fetchGitHubOrganizations(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
     ])
 
     console.group(`[GitHub Public]`)

@@ -7,6 +7,10 @@ import axios from 'axios'
 import type { AxiosError } from 'axios'
 import type { GitHubGraphqlVariables, GitHubRepository, NpmPackageDownloads, NpmPackageSearchResult } from './types.js'
 
+export const getGitHubAuthHeaders = (githubToken?: string): Record<string, string> => {
+    return githubToken ? { Authorization: `Bearer ${githubToken}` } : {}
+}
+
 axios.interceptors.response.use(
     (response) => response,
     (error: AxiosError) => {
@@ -29,18 +33,24 @@ export const fetchNPMPackageDownloads = async (packageName: string): Promise<Npm
     return response.data
 }
 
-export const fetchGitHubUserinfo = async (githubUID: string): Promise<unknown> => {
-    const response = await axios.get(`https://api.github.com/users/${githubUID}`)
+export const fetchGitHubUserinfo = async (githubUID: string, githubToken?: string): Promise<unknown> => {
+    const response = await axios.get(`https://api.github.com/users/${githubUID}`, {
+        headers: getGitHubAuthHeaders(githubToken)
+    })
     return response.data
 }
 
-export const fetchGitHubRepositories = async (githubUID: string): Promise<GitHubRepository[]> => {
-    const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=1000`)
+export const fetchGitHubRepositories = async (githubUID: string, githubToken?: string): Promise<GitHubRepository[]> => {
+    const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=1000`, {
+        headers: getGitHubAuthHeaders(githubToken)
+    })
     return response.data
 }
 
-export const fetchGitHubOrganizations = async (githubUID: string): Promise<unknown[]> => {
-    const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`)
+export const fetchGitHubOrganizations = async (githubUID: string, githubToken?: string): Promise<unknown[]> => {
+    const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`, {
+        headers: getGitHubAuthHeaders(githubToken)
+    })
     return response.data
 }
 

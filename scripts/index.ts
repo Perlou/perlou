@@ -79,7 +79,7 @@ try {
     writeFileToOutput(
         'total-npm-downloads.svg',
         await renderSegmentBadge({
-            width: 308,
+            width: 260,
             height: 30,
             title: `Total NPM Downloads: ${npmPublicData.packageDownloadsTotal}`,
             icon: simpleIcons.siNpm.svg,
