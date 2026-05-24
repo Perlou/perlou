@@ -1,23 +1,37 @@
 import { renderSVG } from './_.js'
 
-const defaultOptions = {
-  width: null,
-  height: 30,
-  radius: 2,
-  title: '',
-  icon: null,
-  label: '',
-  labelColor: '#fff',
-  labelBackground: '#ddd',
-  value: '-',
-  valueColor: '#fff',
-  valueBackground: '#aaa'
+interface SegmentBadgeOptions {
+    width: number | null
+    height: number
+    radius: number
+    title: string
+    icon: string | null
+    label: string
+    labelColor: string
+    labelBackground: string
+    value: string
+    valueColor: string
+    valueBackground: string
 }
 
-export const renderSegmentBadge = (options = {}) => {
-  const opts = { ...defaultOptions, ...options }
+const defaultOptions: SegmentBadgeOptions = {
+    width: null,
+    height: 30,
+    radius: 2,
+    title: '',
+    icon: null,
+    label: '',
+    labelColor: '#fff',
+    labelBackground: '#ddd',
+    value: '-',
+    valueColor: '#fff',
+    valueBackground: '#aaa'
+}
 
-  const html = `
+export const renderSegmentBadge = (options: Partial<SegmentBadgeOptions> = {}): Promise<string> => {
+    const opts = { ...defaultOptions, ...options }
+
+    const html = `
     <div class="main">
       <div class="label">
         <span class="icon">${opts.icon ?? ''}</span>
@@ -27,7 +41,7 @@ export const renderSegmentBadge = (options = {}) => {
     </div>
   `
 
-  const css = `
+    const css = `
     .main {
       font-family: Verdana, Geneva, DejaVu Sans, sans-serif;
       -webkit-font-smoothing: antialiased;
@@ -69,13 +83,13 @@ export const renderSegmentBadge = (options = {}) => {
     }
   `
 
-  return renderSVG({
-    html,
-    css,
-    title: opts.title,
-    attrs: {
-      ...(opts.width ? { width: opts.width } : {}),
-      ...(opts.height ? { height: opts.height } : {})
-    }
-  })
+    return renderSVG({
+        html,
+        css,
+        title: opts.title,
+        attrs: {
+            ...(opts.width ? { width: opts.width } : {}),
+            ...(opts.height ? { height: opts.height } : {})
+        }
+    })
 }

@@ -7,6 +7,14 @@ import { CONFIG } from './constants.js'
 import { consoleObject } from './utils.js'
 import { fetchGitHubUserinfo, fetchGitHubRepositories, fetchGitHubOrganizations } from './apis.js'
 
+interface GitHubPublicStatistics {
+    size: number
+    stars: number
+    forks: number
+    open_issues: number
+    topics: Record<string, number>
+}
+
 export const getGitHubPublicData = async () => {
     const [userinfo, repositories, organizations] = await Promise.all([
         fetchGitHubUserinfo(CONFIG.GITHUB_UID),
@@ -21,7 +29,7 @@ export const getGitHubPublicData = async () => {
     })
 
     // statistics
-    const statistics = {
+    const statistics: GitHubPublicStatistics = {
         size: 0,
         stars: 0,
         forks: 0,

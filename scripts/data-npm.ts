@@ -10,7 +10,7 @@ export const getNpmPublicData = async () => {
     // packages
     const packages = await fetchNPMPackages(CONFIG.NPM_UID)
     // packages downloads map
-    const packageDownloadsMap = new Map()
+    const packageDownloadsMap = new Map<string, number>()
     await Promise.all(
         packages.map(async (item) => {
             const packageName = item.package.name

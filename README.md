@@ -22,19 +22,18 @@
 
 <p align="center"><samp>_</samp></p>
 
-<h4 align="center">
+<p align="center">
   <a href="#"><img
     alt="total GitHub stars"
     src="https://raw.githubusercontent.com/perlou/perlou/release/total-github-stars.svg"
   /></a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~perlou"><img
     alt="total NPM downloads"
     src="https://raw.githubusercontent.com/perlou/perlou/release/total-npm-downloads.svg"
   /></a>
-</h4>
-
-<p align="center">
+  <br>
+  <br>
   <a href="https://perlou.top"><img
     alt="blog"
     height="24px"
@@ -54,10 +53,8 @@
   /></a>
 </p>
 
-<h4></h4>
-
 <p align="center">
-  <a href="https://github.com/Perlou/perlou/blob/main/scripts/svgs/github-top-languages.js">
+  <a href="https://github.com/Perlou/perlou/blob/main/scripts/svgs/github-top-languages.ts">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perlou/perlou/release/github-top-languages-dark.svg">
       <img alt="GitHub Top Languages" src="https://raw.githubusercontent.com/perlou/perlou/release/github-top-languages-light.svg">

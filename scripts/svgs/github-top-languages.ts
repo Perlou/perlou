@@ -1,59 +1,76 @@
 import fs from 'fs'
 import path from 'path'
 import { renderSVG } from './_.js'
+import type { Language } from '../types.js'
 
 const devIconFileMap = new Map([['Less', 'less-plain-wordmark']])
 const devIconNameMap = new Map([
-  ['Vue', 'vuejs'],
-  ['HTML', 'html5'],
-  ['CSS', 'css3'],
-  ['SASS', 'sass'],
-  ['SCSS', 'sass'],
-  ['Shell', 'bash'],
-  ['Objective-C', 'xcode']
+    ['Vue', 'vuejs'],
+    ['HTML', 'html5'],
+    ['CSS', 'css3'],
+    ['SASS', 'sass'],
+    ['SCSS', 'sass'],
+    ['Shell', 'bash'],
+    ['Objective-C', 'xcode']
 ])
 
-const getLanguageIconSvg = (name) => {
-  try {
-    const iconName = devIconNameMap.get(name) ?? name.toLocaleLowerCase()
-    const fileName = devIconFileMap.get(name) ?? iconName + '-original'
-    const svgPath = path.resolve(`node_modules/devicon/icons/${iconName}/${fileName}.svg`)
-    return fs.readFileSync(svgPath, { encoding: 'utf-8' })
-  } catch {
-    return '<span class="placeholder"></span>'
-  }
+const getLanguageIconSvg = (name: string): string => {
+    try {
+        const iconName = devIconNameMap.get(name) ?? name.toLocaleLowerCase()
+        const fileName = devIconFileMap.get(name) ?? iconName + '-original'
+        const svgPath = path.resolve(`node_modules/devicon/icons/${iconName}/${fileName}.svg`)
+        return fs.readFileSync(svgPath, { encoding: 'utf-8' })
+    } catch {
+        return '<span class="placeholder"></span>'
+    }
 }
 
-const defaultOptions = {
-  width: 846,
-  height: 188,
-  radius: 2,
-  languages: [],
-  title: '',
-  color: '#333',
-  borderColor: '#aaa',
-  backgroundColor: 'transparent',
-  legendGradientBackgroundColor: 'transparent',
-  countLimit: 12,
-  columns: 4,
-  rowGap: 25,
-  columnGap: 32
+interface GitHubTopLanguagesOptions {
+    width: number
+    height: number
+    radius: number
+    languages: Language[]
+    title: string
+    color: string
+    borderColor: string
+    backgroundColor: string
+    legendGradientBackgroundColor: string
+    countLimit: number
+    columns: number
+    rowGap: number
+    columnGap: number
 }
 
-export const renderGitHubTopLanguages = (options = {}) => {
-  const opts = { ...defaultOptions, ...options }
-  const languages = opts.languages.slice(0, opts.countLimit)
+const defaultOptions: GitHubTopLanguagesOptions = {
+    width: 846,
+    height: 188,
+    radius: 2,
+    languages: [],
+    title: '',
+    color: '#333',
+    borderColor: '#aaa',
+    backgroundColor: 'transparent',
+    legendGradientBackgroundColor: 'transparent',
+    countLimit: 12,
+    columns: 4,
+    rowGap: 25,
+    columnGap: 32
+}
 
-  const renderProgressItem = (language) => `
+export const renderGitHubTopLanguages = (options: Partial<GitHubTopLanguagesOptions> = {}): Promise<string> => {
+    const opts = { ...defaultOptions, ...options }
+    const languages = opts.languages.slice(0, opts.countLimit)
+
+    const renderProgressItem = (language: Language) => `
     <span
       class="item"
       data-lang="${language.name}"
-      style="background-color: ${language.color}; width: ${language.percentage}%"
+      style="background-color: ${language.color ?? '#858585'}; width: ${language.percentage}%"
     ></span>
   `
 
-  const renderLegendItem = (language, index) => `
-    <div class="legend" style="--color: ${language.color};">
+    const renderLegendItem = (language: Language, index: number) => `
+    <div class="legend" style="--color: ${language.color ?? '#858585'};">
       <span class="color" style="--gradient: ${80 - index * 5}%">
         <span class="core" style="width: ${language.percentage}%"></span>
       </span>
@@ -63,7 +80,7 @@ export const renderGitHubTopLanguages = (options = {}) => {
     </div>
   `
 
-  const html = `
+    const html = `
     <div class="main">
       <div class="progress">
         ${languages.map(renderProgressItem).join('')}
@@ -81,7 +98,7 @@ export const renderGitHubTopLanguages = (options = {}) => {
     </div>
   `
 
-  const css = `
+    const css = `
     .main {
       --gap: 24px;
       --progress-size: 13px;
@@ -161,13 +178,13 @@ export const renderGitHubTopLanguages = (options = {}) => {
     }
   `
 
-  return renderSVG({
-    html,
-    css,
-    title: opts.title,
-    attrs: {
-      width: opts.width,
-      height: opts.height
-    }
-  })
+    return renderSVG({
+        html,
+        css,
+        title: opts.title,
+        attrs: {
+            width: opts.width,
+            height: opts.height
+        }
+    })
 }

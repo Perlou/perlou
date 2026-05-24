@@ -2,6 +2,8 @@ name: Generate
 
 on:
     push:
+        branches:
+            - main
         tags:
             - 'v*'
     schedule:
@@ -13,20 +15,23 @@ on:
 jobs:
     generate:
         runs-on: ubuntu-latest
+        permissions:
+            contents: write
         steps:
             - uses: actions/checkout@v4
             - uses: actions/setup-node@v4
               with:
                   node-version: 'lts/*'
             - run: npm ci
-            - run: npm run generate
+            - name: Generate assets
+              run: npm run generate
               env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  # Use a PAT here. The default GITHUB_TOKEN only has access to this repository.
+                  PROFILE_GITHUB_TOKEN: ${{ secrets.PROFILE_GITHUB_TOKEN || secrets.RELEASE }}
 
             - name: Release branch
               uses: peaceiris/actions-gh-pages@v4
               with:
-                  personal_token: ${{ secrets.GITHUB_TOKEN }}
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  github_token: ${{ github.token }}
                   publish_branch: release
                   publish_dir: ./output

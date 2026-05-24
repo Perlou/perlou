@@ -1,7 +1,7 @@
 {
     "name": "perlou",
     "version": "1.0.0",
-    "main": "scripts/index.js",
+    "main": "scripts/index.ts",
     "repository": {
         "type": "git",
         "url": "https://github.com/Perlou/perlou"
@@ -21,8 +21,11 @@
         ]
     },
     "scripts": {
-        "dev": "nodemon ./dev/index.js",
-        "generate": "node ./scripts/index.js",
+        "dev": "nodemon --exec tsx ./scripts/index.ts",
+        "generate": "tsx ./scripts/index.ts",
+        "typecheck": "tsc --noEmit",
+        "test": "node --import tsx --test scripts/*.test.ts",
+        "check": "npm run typecheck && npm test",
         "format": "prettier ./scripts --write"
     },
     "dependencies": {
@@ -33,6 +36,10 @@
         "simple-icons": "^13.x"
     },
     "devDependencies": {
-        "nodemon": "^3.x"
+        "@types/fs-extra": "^11.0.4",
+        "@types/node": "^25.9.1",
+        "nodemon": "^3.x",
+        "tsx": "^4.22.3",
+        "typescript": "^6.0.3"
     }
 }

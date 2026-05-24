@@ -1,28 +1,40 @@
 import { renderSVG } from './_.js'
 
-const defaultOptions = {
-  width: 62,
-  height: 28,
-  radius: 2,
-  title: '',
-  icon: null,
-  iconSize: 14,
-  label: '-',
-  color: '#fff',
-  background: '#333'
+interface SolidBadgeOptions {
+    width: number
+    height: number
+    radius: number
+    title: string
+    icon: string | null
+    iconSize: number
+    label: string
+    color: string
+    background: string
 }
 
-export const renderSolidBadge = (options = {}) => {
-  const opts = { ...defaultOptions, ...options }
+const defaultOptions: SolidBadgeOptions = {
+    width: 62,
+    height: 28,
+    radius: 2,
+    title: '',
+    icon: null,
+    iconSize: 14,
+    label: '-',
+    color: '#fff',
+    background: '#333'
+}
 
-  const html = `
+export const renderSolidBadge = (options: Partial<SolidBadgeOptions> = {}): Promise<string> => {
+    const opts = { ...defaultOptions, ...options }
+
+    const html = `
     <div class="main">
       <span class="icon">${opts.icon ?? ''}</span>
       <span class="text">${opts.label}</span>
     </div>
   `
 
-  const css = `
+    const css = `
     .main {
       height: ${opts.height}px;
       display: flex;
@@ -56,13 +68,13 @@ export const renderSolidBadge = (options = {}) => {
     }
   `
 
-  return renderSVG({
-    html,
-    css,
-    title: opts.title,
-    attrs: {
-      width: opts.width,
-      height: opts.height
-    }
-  })
+    return renderSVG({
+        html,
+        css,
+        title: opts.title,
+        attrs: {
+            width: opts.width,
+            height: opts.height
+        }
+    })
 }
