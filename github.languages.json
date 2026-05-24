@@ -1,98 +1,110 @@
 [
   {
     "name": "Python",
-    "size": 9277583,
+    "size": 12751074,
     "color": "#3572A5",
-    "percentage": "44.83"
+    "percentage": "46.32"
   },
   {
     "name": "Java",
-    "size": 4645838,
+    "size": 5040196,
     "color": "#b07219",
-    "percentage": "22.45"
-  },
-  {
-    "name": "JavaScript",
-    "size": 2683889,
-    "color": "#f1e05a",
-    "percentage": "12.97"
-  },
-  {
-    "name": "HTML",
-    "size": 1390566,
-    "color": "#e34c26",
-    "percentage": "6.72"
+    "percentage": "18.31"
   },
   {
     "name": "TypeScript",
-    "size": 1195606,
+    "size": 3366523,
     "color": "#3178c6",
-    "percentage": "5.78"
+    "percentage": "12.23"
+  },
+  {
+    "name": "JavaScript",
+    "size": 2745607,
+    "color": "#f1e05a",
+    "percentage": "9.97"
+  },
+  {
+    "name": "HTML",
+    "size": 1480868,
+    "color": "#e34c26",
+    "percentage": "5.38"
+  },
+  {
+    "name": "Vue",
+    "size": 651384,
+    "color": "#41b883",
+    "percentage": "2.37"
   },
   {
     "name": "CSS",
-    "size": 398152,
+    "size": 470269,
     "color": "#663399",
-    "percentage": "1.92"
+    "percentage": "1.71"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.61"
+    "percentage": "1.21"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "1.09"
+    "percentage": "0.82"
   },
   {
     "name": "Shell",
-    "size": 205958,
+    "size": 221487,
     "color": "#89e051",
-    "percentage": "1.00"
-  },
-  {
-    "name": "Vue",
-    "size": 188563,
-    "color": "#41b883",
-    "percentage": "0.91"
+    "percentage": "0.80"
   },
   {
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.45"
+    "percentage": "0.34"
+  },
+  {
+    "name": "SCSS",
+    "size": 47411,
+    "color": "#c6538c",
+    "percentage": "0.17"
   },
   {
     "name": "Dockerfile",
-    "size": 14264,
+    "size": 18563,
     "color": "#384d54",
     "percentage": "0.07"
+  },
+  {
+    "name": "Nunjucks",
+    "size": 18013,
+    "color": "#3d8137",
+    "percentage": "0.07"
+  },
+  {
+    "name": "Less",
+    "size": 16575,
+    "color": "#1d365d",
+    "percentage": "0.06"
+  },
+  {
+    "name": "Makefile",
+    "size": 13977,
+    "color": "#427819",
+    "percentage": "0.05"
   },
   {
     "name": "PLpgSQL",
     "size": 11513,
     "color": "#336790",
-    "percentage": "0.06"
-  },
-  {
-    "name": "SCSS",
-    "size": 5062,
-    "color": "#c6538c",
-    "percentage": "0.02"
+    "percentage": "0.04"
   },
   {
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
-    "percentage": "0.02"
-  },
-  {
-    "name": "Makefile",
-    "size": 4692,
-    "color": "#427819",
     "percentage": "0.02"
   },
   {
@@ -115,13 +127,13 @@
   },
   {
     "name": "Lua",
-    "size": 1430,
+    "size": 2145,
     "color": "#000080",
     "percentage": "0.01"
   },
   {
     "name": "Mako",
-    "size": 1146,
+    "size": 1850,
     "color": "#7e858d",
     "percentage": "0.01"
   },
