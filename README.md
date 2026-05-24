@@ -25,15 +25,16 @@
 <p align="center">
   <a href="#"><img
     alt="total GitHub stars"
+    height="24px"
     src="https://raw.githubusercontent.com/perlou/perlou/release/total-github-stars.svg"
   /></a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <a href="https://www.npmjs.com/~perlou"><img
     alt="total NPM downloads"
+    height="24px"
     src="https://raw.githubusercontent.com/perlou/perlou/release/total-npm-downloads.svg"
   /></a>
-  <br>
-  <br>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://perlou.top"><img
     alt="blog"
     height="24px"
