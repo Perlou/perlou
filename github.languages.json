@@ -1,69 +1,69 @@
 [
   {
     "name": "Python",
-    "size": 13134928,
+    "size": 13812339,
     "color": "#3572A5",
-    "percentage": "47.06"
+    "percentage": "48.31"
   },
   {
     "name": "Java",
     "size": 5040196,
     "color": "#b07219",
-    "percentage": "18.06"
+    "percentage": "17.63"
   },
   {
     "name": "TypeScript",
     "size": 3367467,
     "color": "#3178c6",
-    "percentage": "12.06"
+    "percentage": "11.78"
   },
   {
     "name": "JavaScript",
     "size": 2745607,
     "color": "#f1e05a",
-    "percentage": "9.84"
+    "percentage": "9.60"
   },
   {
     "name": "HTML",
     "size": 1480868,
     "color": "#e34c26",
-    "percentage": "5.31"
+    "percentage": "5.18"
   },
   {
     "name": "Vue",
     "size": 651384,
     "color": "#41b883",
-    "percentage": "2.33"
+    "percentage": "2.28"
   },
   {
     "name": "CSS",
     "size": 470269,
     "color": "#663399",
-    "percentage": "1.68"
+    "percentage": "1.64"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.19"
+    "percentage": "1.17"
   },
   {
     "name": "Go",
     "size": 226252,
     "color": "#00ADD8",
-    "percentage": "0.81"
+    "percentage": "0.79"
   },
   {
     "name": "Shell",
     "size": 221487,
     "color": "#89e051",
-    "percentage": "0.79"
+    "percentage": "0.77"
   },
   {
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.33"
+    "percentage": "0.32"
   },
   {
     "name": "SCSS",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Dockerfile",
-    "size": 18563,
+    "size": 19286,
     "color": "#384d54",
     "percentage": "0.07"
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "Makefile",
-    "size": 13977,
+    "size": 15336,
     "color": "#427819",
     "percentage": "0.05"
   },
@@ -117,7 +117,7 @@
     "name": "GLSL",
     "size": 4249,
     "color": "#5686a5",
-    "percentage": "0.02"
+    "percentage": "0.01"
   },
   {
     "name": "Go Template",
@@ -126,15 +126,15 @@
     "percentage": "0.01"
   },
   {
-    "name": "Lua",
-    "size": 2145,
-    "color": "#000080",
+    "name": "Mako",
+    "size": 2500,
+    "color": "#7e858d",
     "percentage": "0.01"
   },
   {
-    "name": "Mako",
-    "size": 1850,
-    "color": "#7e858d",
+    "name": "Lua",
+    "size": 2145,
+    "color": "#000080",
     "percentage": "0.01"
   },
   {
