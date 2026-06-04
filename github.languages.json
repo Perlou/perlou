@@ -1,69 +1,69 @@
 [
   {
     "name": "Python",
-    "size": 13999097,
+    "size": 14417505,
     "color": "#3572A5",
-    "percentage": "48.34"
+    "percentage": "48.74"
   },
   {
     "name": "Java",
     "size": 5040196,
     "color": "#b07219",
-    "percentage": "17.41"
+    "percentage": "17.04"
   },
   {
     "name": "TypeScript",
     "size": 3367467,
     "color": "#3178c6",
-    "percentage": "11.63"
+    "percentage": "11.38"
   },
   {
     "name": "JavaScript",
     "size": 2745607,
     "color": "#f1e05a",
-    "percentage": "9.48"
+    "percentage": "9.28"
   },
   {
     "name": "HTML",
     "size": 1480868,
     "color": "#e34c26",
-    "percentage": "5.11"
+    "percentage": "5.01"
   },
   {
     "name": "Vue",
     "size": 651384,
     "color": "#41b883",
-    "percentage": "2.25"
+    "percentage": "2.20"
+  },
+  {
+    "name": "Go",
+    "size": 606437,
+    "color": "#00ADD8",
+    "percentage": "2.05"
   },
   {
     "name": "CSS",
     "size": 470269,
     "color": "#663399",
-    "percentage": "1.62"
-  },
-  {
-    "name": "Go",
-    "size": 404865,
-    "color": "#00ADD8",
-    "percentage": "1.40"
+    "percentage": "1.59"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.15"
+    "percentage": "1.13"
   },
   {
     "name": "Shell",
-    "size": 221487,
+    "size": 222084,
     "color": "#89e051",
-    "percentage": "0.76"
+    "percentage": "0.75"
   },
   {
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.32"
+    "percentage": "0.31"
   },
   {
     "name": "SCSS",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Dockerfile",
-    "size": 19286,
+    "size": 20160,
     "color": "#384d54",
     "percentage": "0.07"
   },
@@ -91,7 +91,7 @@
   },
   {
     "name": "Makefile",
-    "size": 15336,
+    "size": 16088,
     "color": "#427819",
     "percentage": "0.05"
   },
@@ -111,7 +111,7 @@
     "name": "Objective-C",
     "size": 4386,
     "color": "#438eff",
-    "percentage": "0.02"
+    "percentage": "0.01"
   },
   {
     "name": "GLSL",
@@ -136,6 +136,12 @@
     "size": 2145,
     "color": "#000080",
     "percentage": "0.01"
+  },
+  {
+    "name": "Cython",
+    "size": 1133,
+    "color": "#fedf5b",
+    "percentage": "0.00"
   },
   {
     "name": "Jinja",
