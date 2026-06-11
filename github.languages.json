@@ -1,33 +1,33 @@
 [
   {
     "name": "Python",
-    "size": 14417505,
+    "size": 14458352,
     "color": "#3572A5",
-    "percentage": "47.66"
+    "percentage": "47.73"
   },
   {
     "name": "Java",
     "size": 5040196,
     "color": "#b07219",
-    "percentage": "16.66"
+    "percentage": "16.64"
   },
   {
     "name": "TypeScript",
-    "size": 3367467,
+    "size": 3373942,
     "color": "#3178c6",
-    "percentage": "11.13"
+    "percentage": "11.14"
   },
   {
     "name": "JavaScript",
     "size": 2745607,
     "color": "#f1e05a",
-    "percentage": "9.08"
+    "percentage": "9.06"
   },
   {
     "name": "HTML",
     "size": 1480868,
     "color": "#e34c26",
-    "percentage": "4.90"
+    "percentage": "4.89"
   },
   {
     "name": "Go",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Dockerfile",
-    "size": 21446,
+    "size": 21444,
     "color": "#384d54",
     "percentage": "0.07"
   },
