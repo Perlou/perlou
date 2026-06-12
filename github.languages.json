@@ -1,39 +1,39 @@
 [
   {
     "name": "Python",
-    "size": 14458352,
+    "size": 14487818,
     "color": "#3572A5",
-    "percentage": "47.73"
+    "percentage": "47.78"
   },
   {
     "name": "Java",
     "size": 5040196,
     "color": "#b07219",
-    "percentage": "16.64"
+    "percentage": "16.62"
   },
   {
     "name": "TypeScript",
     "size": 3373942,
     "color": "#3178c6",
-    "percentage": "11.14"
+    "percentage": "11.13"
   },
   {
     "name": "JavaScript",
     "size": 2745607,
     "color": "#f1e05a",
-    "percentage": "9.06"
+    "percentage": "9.05"
   },
   {
     "name": "HTML",
     "size": 1480868,
     "color": "#e34c26",
-    "percentage": "4.89"
+    "percentage": "4.88"
   },
   {
     "name": "Go",
     "size": 1268575,
     "color": "#00ADD8",
-    "percentage": "4.19"
+    "percentage": "4.18"
   },
   {
     "name": "Vue",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Makefile",
-    "size": 19783,
+    "size": 20188,
     "color": "#427819",
     "percentage": "0.07"
   },
