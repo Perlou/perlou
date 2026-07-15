@@ -2,12 +2,12 @@
   "packages": [
     {
       "downloads": {
-        "monthly": 15,
-        "weekly": 4
+        "monthly": 11,
+        "weekly": 2
       },
       "dependents": 0,
-      "updated": "2026-07-08T02:46:27.772Z",
-      "searchScore": 14.726771,
+      "updated": "2026-07-15T02:51:35.395Z",
+      "searchScore": 12.089697,
       "package": {
         "name": "@perlou/large-number",
         "keywords": [],
@@ -31,7 +31,7 @@
         }
       },
       "score": {
-        "final": 14.726771,
+        "final": 12.089697,
         "detail": {
           "popularity": 1,
           "quality": 1,
