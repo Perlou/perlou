@@ -1,81 +1,81 @@
 [
   {
     "name": "Python",
-    "size": 15266651,
+    "size": 17342637,
     "color": "#3572A5",
-    "percentage": "49.08"
+    "percentage": "52.27"
   },
   {
     "name": "Java",
     "size": 5040196,
     "color": "#b07219",
-    "percentage": "16.20"
+    "percentage": "15.19"
   },
   {
     "name": "TypeScript",
     "size": 3373942,
     "color": "#3178c6",
-    "percentage": "10.85"
+    "percentage": "10.17"
   },
   {
     "name": "JavaScript",
     "size": 2745607,
     "color": "#f1e05a",
-    "percentage": "8.83"
+    "percentage": "8.27"
   },
   {
     "name": "HTML",
     "size": 1480868,
     "color": "#e34c26",
-    "percentage": "4.76"
+    "percentage": "4.46"
   },
   {
     "name": "Go",
     "size": 1268575,
     "color": "#00ADD8",
-    "percentage": "4.08"
+    "percentage": "3.82"
   },
   {
     "name": "Vue",
     "size": 651384,
     "color": "#41b883",
-    "percentage": "2.09"
+    "percentage": "1.96"
   },
   {
     "name": "CSS",
     "size": 470269,
     "color": "#663399",
-    "percentage": "1.51"
+    "percentage": "1.42"
   },
   {
     "name": "Rust",
     "size": 333359,
     "color": "#dea584",
-    "percentage": "1.07"
+    "percentage": "1.00"
   },
   {
     "name": "Shell",
     "size": 222084,
     "color": "#89e051",
-    "percentage": "0.71"
+    "percentage": "0.67"
   },
   {
     "name": "Jupyter Notebook",
     "size": 92691,
     "color": "#DA5B0B",
-    "percentage": "0.30"
+    "percentage": "0.28"
   },
   {
     "name": "SCSS",
     "size": 47411,
     "color": "#c6538c",
-    "percentage": "0.15"
+    "percentage": "0.14"
   },
   {
     "name": "Dockerfile",
     "size": 21444,
     "color": "#384d54",
-    "percentage": "0.07"
+    "percentage": "0.06"
   },
   {
     "name": "Makefile",
@@ -87,7 +87,7 @@
     "name": "Nunjucks",
     "size": 18013,
     "color": "#3d8137",
-    "percentage": "0.06"
+    "percentage": "0.05"
   },
   {
     "name": "Less",
@@ -99,13 +99,13 @@
     "name": "PLpgSQL",
     "size": 11513,
     "color": "#336790",
-    "percentage": "0.04"
+    "percentage": "0.03"
   },
   {
     "name": "CoffeeScript",
     "size": 4937,
     "color": "#244776",
-    "percentage": "0.02"
+    "percentage": "0.01"
   },
   {
     "name": "Objective-C",
